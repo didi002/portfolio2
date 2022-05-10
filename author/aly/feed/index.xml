@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress3/author/aly/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 10 May 2022 06:55:55 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 May 2022 07:29:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -38,7 +38,7 @@
 								<div class="elementor-element elementor-element-3c8af75 elementor-widget elementor-widget-image" data-id="3c8af75" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.5 - 27-04-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="512" height="560" src="./../../../wp-content/uploads/2022/05/my-cv.png" class="attachment-large size-large" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/05/my-cv.png 512w, ./../../../wp-content/uploads/2022/05/my-cv-274x300.png 274w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="512" height="554" src="./../../../wp-content/uploads/2022/05/cv-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="./../../../wp-content/uploads/2022/05/cv-1.png 512w, ./../../../wp-content/uploads/2022/05/cv-1-277x300.png 277w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
 				</div>
 					</div>
 		</div>
